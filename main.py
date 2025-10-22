@@ -104,7 +104,7 @@ def save_visualizations(*args, **kwargs):
 
 
 # -------------------------------
-# Simple CLI for smoke testing
+# Run main
 # -------------------------------
 
 def main(argv: Optional[List[str]] = None) -> int:
