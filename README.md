@@ -6,3 +6,5 @@
 
 1. Take centre of head of femur and centre of distal femur
 2. Axis at centre point of joint proximally to centre point of joint distally
+
+## Usage
