@@ -107,13 +107,6 @@ def save_visualizations(*args, **kwargs):
 # Simple CLI for smoke testing
 # -------------------------------
 
-def _summarize_markers(df: pd.DataFrame, max_items: int = 10) -> List[str]:
-    markers = sorted({g for g, f in df.columns if g != "meta"})
-    if len(markers) > max_items:
-        return markers[:max_items] + [f"... (+{len(markers) - max_items} more)"]
-    return markers
-
-
 def main(argv: Optional[List[str]] = None) -> int:
     return 0
 
