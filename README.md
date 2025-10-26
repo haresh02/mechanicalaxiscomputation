@@ -12,7 +12,7 @@
 
 ![image](./anatomical_points.jpg)
 
-## Short Forms 
+## Landmarks/Short Forms
 
 ### Thigh Bone
 - uFH: upper femoral head
